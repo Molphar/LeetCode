@@ -8,7 +8,7 @@
 
 #### **Example 1:**
 
-``
+```
 
 ```
 
@@ -18,6 +18,7 @@
 + `-10⁹ <= nums[i] <= 10⁹`
 + `-10⁹ <= target <= 10⁹`
 + `Only one valid answer exists.`
++ ` ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹`
 
 ## Solution
 
